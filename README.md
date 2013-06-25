@@ -1,0 +1,6 @@
+FlatdocTest
+===========
+
+- FlatdocTest
+- In markdown
+
